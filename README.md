@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Elias Viana
 
-<!--
-**eliasviana-dev/eliasviana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught web & software developer from Brazil. I build websites, online stores, apps, bots and scripts, and I enjoy debugging and fixing things that are broken.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript · Node.js · Python · Lua · HTML/CSS · SQL
+
+## Portfolio
+
+https://eliasviana-dev.github.io
+
+## What I do
+
+Websites and online stores for small businesses · Scripts and gameplay systems (Lua / JavaScript) · Bug fixing, code review and small automation tools.
+
+Open to remote coding, debugging and web development work.
